@@ -4,6 +4,8 @@ This API was built to provide the Cloud Stay App access to each property's photo
 
 ## Scalability
 
+By using 8 AWS servers with Nginx load balancer,
+
 The back-end system is able to handle a throughput of ~700 request per second with <10ms latency and <1% error rate.
 
 ![](https://i.imgur.com/zYFIdZF.png)
