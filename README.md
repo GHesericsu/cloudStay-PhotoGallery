@@ -104,9 +104,9 @@ The back-end system is able to handle a throughput of ~700 request per second wi
 
 ```json
     {
-      _id: "Number",
-      listName: 'String',
-      saved: 'Boolean',
+      "_id": "Number",
+      "listName": "String",
+      "saved": "Boolean",
     }
 ```
 
@@ -122,9 +122,9 @@ The back-end system is able to handle a throughput of ~700 request per second wi
 
 ```json
     {
-      listName: 'String',
-      saved: 'Boolean',
-      roomId: 'Number',
+      "listName": "String",
+      "saved": "Boolean",
+      "roomId": "Number",
     }
 ```
 
@@ -140,8 +140,8 @@ The back-end system is able to handle a throughput of ~700 request per second wi
 
 ```json
     {
-      saved: 'Boolean',
-      _id: 'Number',
+      "saved": "Boolean",
+      "_id": "Number",
     }
 ```
 
@@ -157,7 +157,7 @@ The back-end system is able to handle a throughput of ~700 request per second wi
 
 ```json
     {
-      _id: 'Number',
+      "_id": "Number",
     }
 ```
 
