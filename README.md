@@ -104,7 +104,7 @@ The back-end system is able to handle a throughput of ~700 request per second wi
 
 ```json
     {
-      _id: 'Number',
+      _id: "Number",
       listName: 'String',
       saved: 'Boolean',
     }
